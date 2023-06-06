@@ -1,3 +1,9 @@
 preload(), donde cargamos en archivos externos ( o “ activos ” ) a nuestro juego. 
 create(), donde definimos los GameObjects que son necesarios al comienzo de nuestro juego. 
 update() donde definimos animación e interacción en nuestro juego ( más sobre esto en ejercicios posteriores )
+
+-------------------------------------------------------------------------------------------------------------------
+'pointerdown': este evento se llama cuando se presiona el botón del mouse ( pero no se libera ) en GameObject.
+'pointerup': este evento se llama cuando se ha lanzado el botón del mouse sobre un GameObject.
+'pointerover': este evento se llama cuando el puntero del mouse se desplaza sobre GameObject.
+'pointerout': este evento se llama cuando un puntero del mouse que se cernía sobre un GameObject se mueve a otro lugar.
