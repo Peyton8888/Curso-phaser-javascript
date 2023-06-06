@@ -1,0 +1,3 @@
+preload(), donde cargamos en archivos externos ( o “ activos ” ) a nuestro juego. 
+create(), donde definimos los GameObjects que son necesarios al comienzo de nuestro juego. 
+update() donde definimos animación e interacción en nuestro juego ( más sobre esto en ejercicios posteriores )

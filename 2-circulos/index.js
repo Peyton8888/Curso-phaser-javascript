@@ -13,6 +13,7 @@ function create() {
       type: Phaser.AUTO,
       width: 450,
       height: 600,
+      backgroundColor:"#80af49",      
       scene: {
       create
       }
